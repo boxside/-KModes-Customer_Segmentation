@@ -20,7 +20,9 @@
 ## Data Handling
 * Library preparation and read dataframe
 * Missing Value checking
+
 ![Figure 1](https://github.com/boxside/-KModes-Customer_Segmentation/blob/main/figure/dataprep.png)
+
 * result : there are 50 rows and 7 columns (2 numerical columns & 5 categorical columns),No Missing value
 ## Exploratory Data Analysis
 ### Numerical variabel EDA
