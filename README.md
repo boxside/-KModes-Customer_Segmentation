@@ -37,10 +37,14 @@
  * from all customer around 64% living in cluster resident and 36% living in sector resident
 ## Modelling
 * Standarized features's value
+
 ![Figure 1](https://github.com/boxside/-KModes-Customer_Segmentation/blob/main/figure/standarized.png)
+
 * converting features using labelencoder
 * find Optimal cluster value
+
 ![Figure 1](https://github.com/boxside/-KModes-Customer_Segmentation/blob/main/figure/k-cluster.png)
+
   the optimal value is 5
 * Modelling using KModes
 ![Figure 1](https://github.com/boxside/-KModes-Customer_Segmentation/blob/main/figure/clustering.png)
