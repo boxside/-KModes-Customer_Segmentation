@@ -54,7 +54,9 @@
 ![Figure 1](https://github.com/boxside/-KModes-Customer_Segmentation/blob/main/figure/clustervsumur.png)
 ![Figure 1](https://github.com/boxside/-KModes-Customer_Segmentation/blob/main/figure/clustervsjk.png)
 * Segment naming 
+
 ![Figure 1](https://github.com/boxside/-KModes-Customer_Segmentation/blob/main/figure/segmentation.png)
+
   * Cluster 0: Diamond Young Entrepreneur, Average expense value per year around 10M. with cust.ages range  18 - 41 year with average : 29 tahun.
   * Cluster 1: Diamond Senior Entrepreneur, Average expense value per year around 10M. with cust.ages range  45 - 64 year with average : 55 tahun.
   * Cluster 2: Silver Students, for students with average of their age : 16 year and Average expense value per year around 3M.
